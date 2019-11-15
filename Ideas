@@ -1,0 +1,17 @@
+1 --> Android Compatible
+	the data of the blood glucose is send periodicly to the
+	smart phone and you can monitor the blood glucode rate 
+	in you app.
+
+2 --> Connect to you Doctor 
+	The android app can send the data to the doctor through 
+	internet. 
+
+3 --> Self processor
+	you can see a glucose rate over last ten measures on the
+	screen
+
+4 --> BootLoader
+	the micorprocessor on the chip is programmed wiht bootloader 
+	so the user can easily update his device
+
